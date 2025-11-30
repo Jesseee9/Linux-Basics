@@ -1,19 +1,33 @@
-# Linux Basics
+# Basic Linux Commands & Scripts
 
-Compact collection of essential Linux commands with short examples — a quick reference.
+This repository is a personal learning project where I document and practice **fundamental Linux commands and scripts**.  
+It serves two purposes:
+- 📚 A study resource for myself as I learn Linux step by step.  
+- 💼 A public showcase of my progress for employers and recruiters to see my hands-on learning journey.
 
-How to use
-- Store commands as small files under commands/ (e.g., commands/navigation.md).
-- Keep each entry short: command, one-line purpose, and a brief example.
+---
 
-Quick examples
-- ls -la — list files (including hidden) with details
-- cd ~/projects — change directory
-- sudo apt update && sudo apt upgrade — update packages (Debian/Ubuntu)
+## 🔧 Contents
+- Common shell commands (`ls`, `cd`, `pwd`, etc.)
+- File and directory operations (`touch`, `mkdir`, `rm`, `cp`, `mv`)
+- User and permission basics (`chmod`, `chown`, `whoami`)
+- Process management (`ps`, `top`, `kill`)
+- Networking essentials (`ping`, `curl`, `wget`)
+- Simple Bash scripts for automation
 
-Structure
-- commands/ — topic files with short entries
-- README.md — this overview
+---
 
-License
-- MIT
+## 🎯 Goals
+- Build a strong foundation in Linux administration
+- Practice commands in real-world scenarios
+- Create reusable scripts for everyday tasks
+- Document progress in a clear, recruiter-friendly way
+
+---
+
+## 🚀 How to Use
+Clone the repo and explore the scripts:
+
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
