@@ -1,12 +1,8 @@
 # Basic Linux Commands & Scripts
 
 This repository is a personal learning project where I document and practice **fundamental Linux commands and scripts**.  
-It serves two purposes:
 - 📚 A study resource for myself as I learn Linux step by step.  
-- 💼 A public showcase of my progress for employers and recruiters to see my hands-on learning journey.
-
 ---
-
 ## 🔧 Contents
 - Common shell commands (`ls`, `cd`, `pwd`, etc.)
 - File and directory operations (`touch`, `mkdir`, `rm`, `cp`, `mv`)
